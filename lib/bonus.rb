@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  #code your solution here:
+  epic_tragedy["capulet"]["herione"]["status"]<<"dead"
 
   
 
